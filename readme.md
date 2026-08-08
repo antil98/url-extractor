@@ -1,6 +1,10 @@
 # URL Extractor
 
-A small web utility that extracts URLs from any text and displays them as a list.
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+A small, lightweight web utility that extracts URLs from any text and displays them as a list.
 
 It also includes an option to open a randomly selected URL from the extracted results.
 
@@ -8,48 +12,24 @@ It also includes an option to open a randomly selected URL from the extracted re
 
 - Extract URLs from plain text
 - Display all detected URLs in a list
-- Open any extracted URL
+- Open extracted URLs directly
 - Open a random URL with one click
 - Simple and responsive interface
+- No dependencies or build tools required
 
-## Getting Started
+## Usage
 
-Clone the repository and install the dependencies:
+Simply open `index.html` in a web browser.
 
-```bash
-git clone <repository-url>
-cd <project-folder>
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Build
-
-Create a production build with:
-
-```bash
-npm run build
-```
-
-Start the production server with:
-
-```bash
-npm start
-```
+Paste or type any text containing URLs into the text area and the application will automatically extract the detected links.
 
 ## Tech Stack
 
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+No frameworks, libraries, package managers, or build tools are required.
 
 ## License
 
