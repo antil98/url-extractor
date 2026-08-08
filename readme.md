@@ -1,8 +1,8 @@
 # URL Extractor
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 A small, lightweight web utility that extracts URLs from any text and displays them as a list.
 
@@ -16,21 +16,3 @@ It also includes an option to open a randomly selected URL from the extracted re
 - Open a random URL with one click
 - Simple and responsive interface
 - No dependencies or build tools required
-
-## Usage
-
-Simply open `index.html` in a web browser.
-
-Paste or type any text containing URLs into the text area and the application will automatically extract the detected links.
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-
-No frameworks, libraries, package managers, or build tools are required.
-
-## License
-
-This project is available for personal and educational use.
